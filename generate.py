@@ -5,7 +5,7 @@ waitress-serve --host 192.168.1.100 --port 7398 temp:app
 import requests
 import time
 
-API_KEY = "81e52169204e0fa54035388bf5763f59"
+API_KEY = ""
 BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE_URL = "https://image.tmdb.org/t/p/original"  # Pode usar w780, original, etc.
 
